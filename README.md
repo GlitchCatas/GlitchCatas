@@ -28,6 +28,6 @@
 </div>
 
 
-![](./profile-3d-contrib/season-version.svg)
+![](./profile-3d-contrib/profile-season.svg)
 
 
