@@ -1,4 +1,5 @@
-
+<br><br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=3000&pause=300&color=E7DFE8&width=435&lines=Hi%2C+this+is+Glitch+%3A+%29;You+believe+in+soul+fleeing+from+servitude%3F)](https://git.io/typing-svg)
 
