@@ -10,13 +10,23 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=glitchcatas&theme=dracula)](https://github.com/glitchcatas/github-profile-trophy)
+<div style="text-align: center;">
+    <a href="https://github.com/glitchcatas/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=glitchcatas&theme=dracula" alt="trophy"/>
+    </a>
+</div>
+
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)) -->
 
 [![Glitch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glitchcatas&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=glitchcatas&theme=dracula)](https://git.io/streak-stats)
+<div style="text-align: center;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=glitchcatas&theme=dracula" alt="GitHub Streak"/>
+    </a>
+</div>
+
 
 ![](./profile-3d-contrib/season-version.svg)
 
