@@ -1,11 +1,14 @@
-<br><br>
-<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=3000&pause=300&color=E7DFE8&width=435&lines=Hi%2C+this+is+Glitch+%3A+%29;You+believe+in+soul+fleeing+from+servitude%3F)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=3000&pause=300&color=E7DFE8&width=435&lines=Hi%2C+this+is+Glitch+%3A+%29;You+believe+in+soul+fleeing+from+servitude%3F)](https://git.io/typing-svg)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <a href="https://github.com/glitchcatas/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=glitchcatas&count_private=true&show_icons=true&theme=dracula" alt="Glitch's GitHub stats" style="max-height: 200px;"/>
+    </a>
+    <a href="https://github.com/glitchcatas/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchcatas&layout=compact&theme=dracula" alt="Top Langs" style="max-height: 200px;"/>
+    </a>
+</div>
 
-[![Glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=glitchcatas&count_private=true&show_icons=true&theme=dracula)](https://github.com/glitchcatas/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchcatas&layout=compact&theme=dracula)](https://github.com/glitchcatas/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=glitchcatas&theme=dracula)](https://github.com/glitchcatas/github-profile-trophy)
 
