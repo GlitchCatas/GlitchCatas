@@ -21,13 +21,13 @@
 
 [![Glitch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glitchcatas&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=glitchcatas&theme=dracula" alt="GitHub Streak"/>
     </a>
-</div>
+</div> -->
 
 
-![](./profile-3d-contrib/profile-season.svg)
+<!--  ![](./profile-3d-contrib/profile-season.svg) -->
 
 
